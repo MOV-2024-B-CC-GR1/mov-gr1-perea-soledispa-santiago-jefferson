@@ -13,6 +13,9 @@
         android:theme="@style/Theme.Deber01PereaSanyiago"
         tools:targetApi="31">
         <activity
+            android:name=".AgregarArtistaActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
