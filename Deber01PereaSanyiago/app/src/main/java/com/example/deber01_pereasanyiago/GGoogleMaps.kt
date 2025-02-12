@@ -103,6 +103,4 @@ class GGoogleMaps : AppCompatActivity() {
     fun anadirMarcador(latLang: LatLng, title:String): Marker{
         return mapa.addMarker(MarkerOptions().position(latLang).title(title))!!
     }
-
-
 }

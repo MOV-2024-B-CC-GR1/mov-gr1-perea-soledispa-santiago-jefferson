@@ -33,7 +33,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="16dp"
-        android:text="Artitas"
+        android:text="Artista"
         app:layout_constraintBottom_toTopOf="@+id/listaArtistas"
         app:layout_constraintEnd_toEndOf="@+id/listaArtistas"
         app:layout_constraintHorizontal_bias="0.497"
